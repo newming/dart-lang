@@ -4,6 +4,8 @@ google 推出的一款全平台的语言
 
 [install](https://www.dartlang.org/tools/sdk#install)
 
+[官方语法文档](https://dart.dev/guides/language/language-tour)
+
 > 文件多个单词通过 _ 连接
 
 - main 方法是固定的写法，他是程序的入口
